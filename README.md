@@ -35,8 +35,6 @@
 <br>
 <h2>🤝 Collaboration Tools 🤝</h2>
 <img src="https://img.shields.io/badge/⑂Fork-0092CF?style=flat&logo=logoColor=white"/>
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook
-&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
