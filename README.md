@@ -17,9 +17,11 @@
 <br>
 
 <h2>🔗 Portfolio 🔗</h2>
-<a href="https://yuzinnee.notion.site/FE-DEVELOPER-MOYUJIN-1884b5e6ac5a4a4ab0429b646cc73afb" target="_blank"><img src="https://img.shields.io/badge/Notion🔗-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://agnesofdeo.notion.site/FE-DEVELOPER-MOYUJIN-aaf79666321e4260a23043d2550e7494" target="_blank"><img src="https://img.shields.io/badge/Notion🔗-000000?style=flat&logo=Notion&logoColor=white"/></a>
 <br>
 <a href="https://velog.io/@agnesofdeo" target="_blank"><img src="https://img.shields.io/badge/Velog🔗-20c997?style=flat&logo=Velog&logoColor=white"/></a>
+<br>
+<a href="https://twitter.com/shine_moscat" target="_blank"><img src="https://img.shields.io/badge/Twitter🔗-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 <br>
 <br>
 <h2>🛠 Tech Stack 🛠</h2>
@@ -30,9 +32,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
 <br>
 <br>
 <h2>🤝 Collaboration Tools 🤝</h2>
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/⑂Fork-0092CF?style=flat&logo=logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
