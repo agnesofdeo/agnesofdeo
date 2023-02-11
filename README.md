@@ -17,7 +17,7 @@
 <br>
 
 <h2>🔗 Portfolio 🔗</h2>
-<a href="https://agnesofdeo.notion.site/FE-DEVELOPER-MOYUJIN-aaf79666321e4260a23043d2550e7494" target="_blank"><img src="https://img.shields.io/badge/Notion🔗-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://agnesofdeo.notion.site/FE-DEVELOPER-MOYUJIN-aaf79666321e4260a23043d2550e7494" target="_blank"><img src="https://img.shields.io/badge/Notion🔗-ffffff?style=flat&logo=Notion&logoColor=black"/></a>
 <br>
 <a href="https://velog.io/@agnesofdeo" target="_blank"><img src="https://img.shields.io/badge/Velog🔗-20c997?style=flat&logo=Velog&logoColor=white"/></a>
 <br>
@@ -33,6 +33,11 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
+<br>  
+  <h3>📚 Studying.. 📚</h3>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+  
+  
 <br>
 <br>
 <h2>🤝 Collaboration Tools 🤝</h2>
